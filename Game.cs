@@ -8,7 +8,7 @@ namespace GameObjectsLab2
 {
     public class Game
     {
-        public string Team1 { get; set; }
+        public string Team1jayjay { get; set; }
 
         public int Team1Score { get; set; }
         
